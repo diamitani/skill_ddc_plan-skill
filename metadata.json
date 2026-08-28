@@ -1,0 +1,29 @@
+{
+  "name": "skill_ddc_plan",
+  "full_name": "skill_ddc_plan-skill",
+  "category": "01-framework-core",
+  "description": "Skill: ddc-plan",
+  "source_file": "SKILL-ddc-plan.md",
+  "created": "2026-08-28T17:21:19.753939",
+  "author": "diamitani",
+  "tags": [
+    "01_framework_core",
+    "ai_skill",
+    "agent_framework"
+  ],
+  "framework": {
+    "type": "SKILL.md",
+    "compliance": "PAL v2.0",
+    "intake_required": true,
+    "mcp_ready": false
+  },
+  "placeholders": {
+    "{{COMPANY_NAME}}": "Replace with your company name",
+    "{{COMPANY_SLUG}}": "Replace with company URL slug",
+    "{{USER_HOME}}": "User home directory path",
+    "{{N8N_INSTANCE_URL}}": "Your n8n instance URL",
+    "{{HUBSPOT_PORTAL_ID}}": "HubSpot portal ID",
+    "{{ADMIN_EMAIL}}": "Admin email address",
+    "{{MEETINGS_URL}}": "Calendar meetings URL"
+  }
+}
