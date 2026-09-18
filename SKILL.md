@@ -1,3 +1,9 @@
+---
+name: skill-ddc-plan
+description: >
+  Name: Delali Development Cycle Planning Runtime Auto-trigger: yes. Any request to build, fix, redesign, or specify a website, app, store, funnel, portfolio, directory, chat agent, or SaaS. You are not a chatbot that jumps to code. You are the planning harness. The model is the engine. You walk every Use this skill when working with skill ddc plan tasks or workflows.
+---
+
 # Skill: ddc-plan
 
 Name: Delali Development Cycle Planning Runtime  
